@@ -1,1 +1,5 @@
+Use for Amazon Lex V2
 
+Customer Support – Create intelligent chatbots that can handle common customer inquiries, troubleshoot issues, and escalate complex problems to human agents. Integrate with your existing CRM and knowledge base systems.
+
+https://aws.amazon.com/blogs/machine-learning/simplify-patient-care-with-a-custom-voice-assistant-using-amazon-lex-v2/
